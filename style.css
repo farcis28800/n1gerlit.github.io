@@ -28,7 +28,6 @@
 @keyframes slidein {
   from {
     font-size: 100px;
-   color: #36363600;
    position: relative;
    top: 200px;
   }
